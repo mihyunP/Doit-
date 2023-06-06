@@ -10,4 +10,6 @@
 static
 singleton
 
-배열 vs ArrayLsit
+배열 vs ArrayList
+배열, 객체배열
+ArrayList
